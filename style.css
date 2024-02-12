@@ -257,7 +257,7 @@ section {
 .home-imgHover {
   position: absolute;
   top: 0;
-  right: 0; 
+  right: 0;
   width: 45%;
   height: 100%;
   background: transparent;
@@ -942,6 +942,7 @@ span {
 
 @keyframes showRight {
   100% {
+    left: 100%;
     width: 0;
   }
 }
