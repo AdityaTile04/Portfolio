@@ -942,7 +942,6 @@ span {
 
 @keyframes showRight {
   100% {
-    left: 100%;
     width: 0;
   }
 }
